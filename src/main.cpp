@@ -40,7 +40,7 @@ uint8_t  nodePos = 0; // default
 uint16_t meshNumLeds = NUM_LEDS; // at boot we are alone
 char role[7] = "MASTER" ; // default start out as master unless told otherwise
 uint32_t activeSlave ;
-int Quin_ID = 470200281;
+int Quin_ID = 12345678;
 painlessMesh mesh;
 
 //Patterns
